@@ -1,5 +1,5 @@
 
 
 describe('UniqueIdService', () => {
-  it('', () => { });
+  it('#generateUniqueIdWithPrefix should generate id when called with prefix', () => { });
 });
